@@ -1,0 +1,15 @@
+{
+  "name": "banking-app-in-cli",
+  "version": "1.0.0",
+  "description": "banking application using node js in cli,1)There will be create account,2)Deposit amount,3)Withdraw amount,4)Show Balance",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irshad Khan",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.8.0"
+  }
+}
